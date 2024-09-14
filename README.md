@@ -33,9 +33,8 @@
 
 
 <!-- GitHub Activity Graph -->
-<p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tot19&theme=radical" alt="GitHub Activity Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tot19&theme=react-dark)
+
 
 <!-- DevOps Tools Section -->
 ## 🔧 DevOps Tools I Use
