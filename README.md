@@ -33,7 +33,7 @@
 
 <!-- GitHub Activity Graph -->
 <p align="center">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-actual-username&theme=radical" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tot19&theme=radical" alt="GitHub Activity Graph" />
 </p>
 
 <!-- DevOps Tools Section -->
