@@ -16,6 +16,7 @@
 - 🎯 **Current Focus:** Building DevOps solutions to streamline CI/CD processes, improve security, and increase efficiency in organizations.
 - 🌐 **Languages:** Intermediate Japanese speaker | 日本語を勉強中です！
 - 🌱 **Learning:** Advanced HashiCorp Vault integrations and building scalable automation scripts in Python.
+- 🛡️ **Infrastructure Support:** Experienced in supporting DNS, LDAP, and MFA in a large organization with both Linux and Windows servers.
 - 📜 **Certifications:** 
   - **Red Hat Certified System Administrator (RHCSA)**
   - **Microsoft Certified: Azure Administrator Associate (AZ-104)**
@@ -35,4 +36,3 @@
 - **Ansible**: Automating tasks and streamlining operations.
 - **CI/CD Tools**: GitHub Actions, Puppet, Ansible Automation Platform, and more.
 - **Containerization**: Podman and OpenShift for scalable deployments.
-- **Infrastructure Management**: Supporting DNS, LDAP, and MFA integrations across Linux and Windows environments.
