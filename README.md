@@ -31,6 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tot19&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+
 <!-- GitHub Activity Graph -->
 <p align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tot19&theme=radical" alt="GitHub Activity Graph" />
