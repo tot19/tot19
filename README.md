@@ -20,6 +20,7 @@
 - 📜 **Certifications:** 
   - **Red Hat Certified System Administrator (RHCSA)**
   - **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+  - **Japanese-Language Proficiency Test (JLPT) N3**
 - 🎨 **Hobbies:** Exploring Tokyo, bouldering, and traveling. 
 
 <!-- GitHub Stats -->
