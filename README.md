@@ -33,5 +33,5 @@
 ## 🔧 DevOps Tools I Use
 - **HashiCorp Vault**: Managing secrets and secure access controls.
 - **Ansible**: Automating tasks and streamlining operations.
-- **CI/CD Tools**: GitHub Actions, Jenkins, and more.
-- **Containerization**: Docker and OpenShift for scalable deployments.ß
+- **CI/CD Tools**: GitHub Actions, Puppet, Ansible Automation Platform, and more.
+- **Containerization**: Podman and OpenShift for scalable deployments.
