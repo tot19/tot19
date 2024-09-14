@@ -31,6 +31,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tot19&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!-- GitHub Activity Graph -->
+<p align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-actual-username&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
 <!-- DevOps Tools Section -->
 ## 🔧 DevOps Tools I Use
 - **HashiCorp Vault**: Managing secrets and secure access controls.
