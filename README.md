@@ -35,3 +35,4 @@
 - **Ansible**: Automating tasks and streamlining operations.
 - **CI/CD Tools**: GitHub Actions, Puppet, Ansible Automation Platform, and more.
 - **Containerization**: Podman and OpenShift for scalable deployments.
+- **Infrastructure Management**: Supporting DNS, LDAP, and MFA integrations across Linux and Windows environments.
