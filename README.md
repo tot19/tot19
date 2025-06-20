@@ -19,6 +19,7 @@
 - 🛡️ **Infrastructure Support:** Experienced in supporting DNS, LDAP, and MFA in a large organization with both Linux and Windows servers.
 - 📜 **Certifications:** 
   - **Red Hat Certified System Administrator (RHCSA)**
+  - **Red Hat Certified Engineer (RHCE)**
   - **Microsoft Certified: Azure Administrator Associate (AZ-104)**
   - **Japanese-Language Proficiency Test (JLPT) N3**
 - 🎨 **Hobbies:** Exploring Tokyo, bouldering, and traveling. 
