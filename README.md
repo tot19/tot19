@@ -14,14 +14,13 @@
 ## 🧑‍💻 About Me
 - 🌟 **Passionate about:** Automating workflows, managing secrets, and enhancing infrastructure with HashiCorp Vault, Ansible, and Python.
 - 🎯 **Current Focus:** Building DevOps solutions to streamline CI/CD processes, improve security, and increase efficiency in organizations.
-- 🌐 **Languages:** Intermediate Japanese speaker | 日本語を勉強中です！
 - 🌱 **Learning:** Advanced HashiCorp Vault integrations and building scalable automation scripts in Python.
-- 🛡️ **Infrastructure Support:** Experienced in supporting DNS, LDAP, and MFA in a large organization with both Linux and Windows servers.
+- 🛡️ **Infrastructure Support:** Experienced in supporting DNS, LDAP, and MFA with both Linux and Windows servers.
 - 📜 **Certifications:** 
   - **Red Hat Certified System Administrator (RHCSA)**
   - **Red Hat Certified Engineer (RHCE)**
   - **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- 🎨 **Hobbies:** Exploring Tokyo, bouldering, and traveling. 
+- 🎨 **Hobbies:** baseball, bouldering, and traveling. 
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
