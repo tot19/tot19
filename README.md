@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h3 align="center">Python Developer | DevOps Enthusiast | HashiCorp Vault & Ansible Expert | Based in Tokyo, Japan 🇯🇵</h3>
+<h3 align="center">Python Developer | DevOps Enthusiast | HashiCorp Vault & Ansible Expert</h3>
 
 <p align="center">
     <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -21,7 +21,6 @@
   - **Red Hat Certified System Administrator (RHCSA)**
   - **Red Hat Certified Engineer (RHCE)**
   - **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-  - **Japanese-Language Proficiency Test (JLPT) N3**
 - 🎨 **Hobbies:** Exploring Tokyo, bouldering, and traveling. 
 
 <!-- GitHub Stats -->
